@@ -29,18 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 
   <!-- Machine Learning, Deep Learning, Computer Vision, NLP logos -->
-  <img width="12" />
-  <a href="https://icons8.com/icon/Q9vlSiHIHIdC/machine-learning" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/machine-learning.png" height="30" alt="machine learning logo" />
-  </a>
-  <img width="12" />
-  <a href="https://icons8.com/icon/pwjJUMU40zy8/deep-learning" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/neural-network.png" height="30" alt="deep learning logo" />
-  </a>
-  <img width="12" />
-  <a href="https://icons8.com/icon/aHClp8f4SBQL/nlp" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/natural-language-processing.png" height="30" alt="NLP logo" />
-  </a>
+  <img width="12" alt="machine learning logo" src="https://img.icons8.com/color/48/000000/machine-learning.png" />
+  <img width="12" alt="deep learning logo" src="https://img.icons8.com/color/48/000000/neural-network.png" />
+  <img width="12" alt="NLP logo" src="https://img.icons8.com/color/48/000000/natural-language-processing.png" />
   <!-- Add other logos as needed -->
 </div>
 
