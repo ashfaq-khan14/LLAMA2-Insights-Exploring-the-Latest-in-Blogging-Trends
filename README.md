@@ -52,7 +52,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ashfaq-khan14/ashfaq-khan14/output/snake.svg" alt="Snake animation" />
 
 ###
 
