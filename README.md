@@ -61,10 +61,10 @@
 
 ###
 
-
+# Blog Content Generator
 
 <img ![Screenshot 2024-02-26 164405](https://github.com/ashfaq-khan14/Generate-Blog-LLAMA2/assets/120010803/85d6f793-6b2b-446a-9ea0-a302f2173242)
-# Blog Content Generator
+
 
 The Blog Content Generator is a powerful tool designed to streamline the content creation process using state-of-the-art LLM (Large Language Models) technology. Whether you're a blogger, marketer, or content creator, this innovative tool empowers you to generate high-quality blog content in a fraction of the time it would take to write manually.
 
