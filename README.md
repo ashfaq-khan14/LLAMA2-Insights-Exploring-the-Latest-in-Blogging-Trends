@@ -61,5 +61,10 @@
 
 ###
 
+<img [![image](https://github.com/ashfaq-khan14/Generate-Blog-LLAMA2/assets/120010803/aaec9049-4258-48de-ad3f-3cd2e1061ded)
+]
+<img ![Screenshot 2024-02-26 164405](https://github.com/ashfaq-khan14/Generate-Blog-LLAMA2/assets/120010803/85d6f793-6b2b-446a-9ea0-a302f2173242)
+
+
 
 ### 
