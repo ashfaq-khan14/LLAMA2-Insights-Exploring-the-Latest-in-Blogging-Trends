@@ -120,12 +120,7 @@ To run the project locally, follow these steps:
 3. Click on the "Generate" button to generate the blog content.
 4. Copy the generated content or download it as a text file.
 
-## Screenshots
-![Demo Screenshot 1](demo_screenshot_1.png)
-Caption for Demo Screenshot 1
 
-![Demo Screenshot 2](demo_screenshot_2.png)
-Caption for Demo Screenshot 2
 
 ## Acknowledgements
 - Special thanks to the developers of the Llama 2 model and Hugging Face Transformers for their contributions to the NLP community.
