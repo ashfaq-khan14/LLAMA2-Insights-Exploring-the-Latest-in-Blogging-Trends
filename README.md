@@ -105,7 +105,7 @@ print(blog_content)
 
 
 ## Demo
-Check out the live demo of the project [here](demo_link_here).
+Check out the live demo of the project [here](https://www.linkedin.com/posts/ashfaqbinsalim_dataanalysis-datascience-llama2-activity-7167846018481422336-An6d?utm_source=share&utm_medium=member_desktop).
 
 ## Installation
 To run the project locally, follow these steps:
