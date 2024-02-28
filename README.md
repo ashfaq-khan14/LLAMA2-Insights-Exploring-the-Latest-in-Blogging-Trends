@@ -109,7 +109,7 @@ Check out the live demo of the project [here](https://www.linkedin.com/posts/ash
 
 ## Installation
 To run the project locally, follow these steps:
-1. Clone the repository: git clone https://github.com/yourusername/your-repository.git
+1. Clone the repository: git clone[ https://github.com/yourusername/your-repository.git](https://github.com/ashfaq-khan14/Generate-Blog-LLAMA2.git)
 2. Install dependencies: pip install -r requirements.txt
 3. Run the demo server: python app.py
 4. Access the demo in your web browser at http://localhost:5000
